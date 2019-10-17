@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test_1.c">
+    <ClCompile Include="206.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="test_2.c">
+    <ClCompile Include="876.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="test_3.c">
+    <ClCompile Include="203.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
