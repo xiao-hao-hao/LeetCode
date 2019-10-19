@@ -60,10 +60,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="206.c" />
-    <ClCompile Include="21.c" />
-    <ClCompile Include="876.c" />
-    <ClCompile Include="203.c" />
+    <ClCompile Include="t20.c" />
+    <ClCompile Include="t206.c" />
+    <ClCompile Include="t21.c" />
+    <ClCompile Include="t876.c" />
+    <ClCompile Include="t203.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,16 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="206.c">
+    <ClCompile Include="t20.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="876.c">
+    <ClCompile Include="t203.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="203.c">
+    <ClCompile Include="t206.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="21.c">
+    <ClCompile Include="t21.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="t876.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
