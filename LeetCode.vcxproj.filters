@@ -36,5 +36,8 @@
     <ClCompile Include="225.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="232.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
