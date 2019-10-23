@@ -30,16 +30,19 @@
     <ClCompile Include="t876.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="622.c">
+    <ClCompile Include="t155.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="225.c">
+    <ClCompile Include="t19.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="232.c">
+    <ClCompile Include="t225.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="155.c">
+    <ClCompile Include="t232.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="t622.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

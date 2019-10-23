@@ -60,10 +60,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="155.c" />
-    <ClCompile Include="225.c" />
-    <ClCompile Include="232.c" />
-    <ClCompile Include="622.c" />
+    <ClCompile Include="t155.c" />
+    <ClCompile Include="t19.c" />
+    <ClCompile Include="t225.c" />
+    <ClCompile Include="t232.c" />
+    <ClCompile Include="t622.c" />
     <ClCompile Include="t20.c" />
     <ClCompile Include="t206.c" />
     <ClCompile Include="t21.c" />
