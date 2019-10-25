@@ -68,6 +68,7 @@
     <ClCompile Include="t20.c" />
     <ClCompile Include="t206.c" />
     <ClCompile Include="t21.c" />
+    <ClCompile Include="t86.c" />
     <ClCompile Include="t876.c" />
     <ClCompile Include="t203.c" />
   </ItemGroup>
