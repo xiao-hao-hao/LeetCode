@@ -60,10 +60,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="t100.c" />
+    <ClCompile Include="t101.c" />
+    <ClCompile Include="t104.c" />
+    <ClCompile Include="t144.c" />
+    <ClCompile Include="t145.c" />
     <ClCompile Include="t155.c" />
     <ClCompile Include="t19.c" />
     <ClCompile Include="t225.c" />
     <ClCompile Include="t232.c" />
+    <ClCompile Include="t572.c" />
     <ClCompile Include="t622.c" />
     <ClCompile Include="t20.c" />
     <ClCompile Include="t206.c" />
@@ -72,6 +78,7 @@
     <ClCompile Include="t86.c" />
     <ClCompile Include="t876.c" />
     <ClCompile Include="t203.c" />
+    <ClCompile Include="t94.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

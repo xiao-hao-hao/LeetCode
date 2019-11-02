@@ -51,5 +51,26 @@
     <ClCompile Include="t82.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="t94.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="t145.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="t144.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="t100.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="t101.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="t572.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="t104.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
