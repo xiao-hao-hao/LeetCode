@@ -67,6 +67,7 @@
     <ClCompile Include="t144.c" />
     <ClCompile Include="t145.c" />
     <ClCompile Include="t155.c" />
+    <ClCompile Include="t160.c" />
     <ClCompile Include="t19.c" />
     <ClCompile Include="t225.c" />
     <ClCompile Include="t232.c" />
