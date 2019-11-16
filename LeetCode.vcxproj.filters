@@ -87,5 +87,8 @@
     <ClCompile Include="t142.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="105.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
