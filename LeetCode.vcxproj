@@ -62,6 +62,7 @@
   <ItemGroup>
     <ClCompile Include="105.c" />
     <ClCompile Include="106.c" />
+    <ClCompile Include="236.c" />
     <ClCompile Include="t100.c" />
     <ClCompile Include="t101.c" />
     <ClCompile Include="t102.c" />
