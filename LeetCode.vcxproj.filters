@@ -96,5 +96,8 @@
     <ClCompile Include="t606.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="t102.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
