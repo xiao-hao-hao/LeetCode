@@ -28,12 +28,6 @@ void _tree2str(struct TreeNode *t, char *ar, int *i)
         _tree2str(t->left, ar, i);
         strcat(ar, ")");
     }
-    else if(t->left==NULL && t->right!=NULL)
-    {
-        strcat(ar, "()(");
-        _tree2str(t->right, ar, i);
-        strcat(ar, ")");
-    }
     else
     {
         strcat(ar, "(");
@@ -47,7 +41,8 @@ void _tree2str(struct TreeNode *t, char *ar, int *i)
 char * tree2str(struct TreeNode* t)
 {
     int i = 0;
-    char *ar = (char*)calloc(sizeof(char), 100000);
+    char *ar = (char*)malloc(sizeof(char) * 50000);
+    ar[0] = '\0';
     _tree2str(t, ar, &i);
     return ar;
 }
